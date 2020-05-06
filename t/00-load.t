@@ -7,8 +7,6 @@ use Test::More tests => 7;
 use OCR::OcrSpace;
 
 
-
-
 BEGIN {
     use_ok( 'OCR::OcrSpace' ) || print "Bail out!\n";
 }
@@ -79,4 +77,4 @@ diag( "Testing OCR::OcrSpace $OCR::OcrSpace::VERSION, Perl $], $^X" );
     ok( OCR::OCROcrSpace::_generate_request( $param ), "ok" );
 }
 
-done_testing();
+done_testing(7);
