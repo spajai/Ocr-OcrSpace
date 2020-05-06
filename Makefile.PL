@@ -21,8 +21,8 @@ my %WriteMakefileArgs = (
         resources => {
             repository => {
                 type => 'git',
-                url  => 'git://github.com/spajai/Yahoo-finance.git',
-                web  => 'https://github.com/spajai/Yahoo-finance.git',
+                url  => 'git://github.com/spajai/Ocr-OcrSpace.git',
+                web  => 'https://github.com/spajai/Ocr-OcrSpace.git',
             },
         },
     },

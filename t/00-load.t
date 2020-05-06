@@ -4,8 +4,6 @@ use strict;
 use warnings;
 use Test::More;
 
-use lib '/home/sushrut/cpan_module/OCR-OcrSpace/lib';
-
 use OCR::OcrSpace;
 
 BEGIN {
