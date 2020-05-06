@@ -2,9 +2,12 @@
 use 5.006;
 use strict;
 use warnings;
-use Test::More;
+use Test::More tests => 7;
 
 use OCR::OcrSpace;
+
+
+
 
 BEGIN {
     use_ok( 'OCR::OcrSpace' ) || print "Bail out!\n";
