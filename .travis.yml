@@ -9,6 +9,8 @@ perl:
 
 before_install:
     - sudo apt-get update -q
+    - curl -L https://cpanmin.us | perl - --sudo App::cpanminus
+    - sudo cpanm LWP::UserAgent
 script: perl Makefile.PL && make test
 
 branches:
