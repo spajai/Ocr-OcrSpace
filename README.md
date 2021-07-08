@@ -25,6 +25,14 @@ To install this module, run the following commands:
 	make test
 	make install
 
+Other Download(Ported to OpenSuse)
+
+	https://build.opensuse.org/package/show/devel:languages:perl:CPAN-O/perl-OCR-OcrSpace
+
+	download link
+
+	https://software.opensuse.org//download.html?project=devel%3Alanguages%3Aperl%3ACPAN-O&package=perl-OCR-OcrSpace
+
 SUPPORT AND DOCUMENTATION
 
 After installing, you can find documentation for this module with the
@@ -45,7 +53,6 @@ You can also look for information at:
 
     Search CPAN
         https://metacpan.org/release/OCR-OcrSpace
-
 
 LICENSE AND COPYRIGHT
 
